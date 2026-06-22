@@ -1,0 +1,9 @@
+{
+  "appId": "com.dotk.bloomvillage",
+  "appName": "Bloom Village",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
